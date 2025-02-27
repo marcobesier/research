@@ -3,9 +3,10 @@
 ## Technical Blog Posts
 
 Most of my technical writing is published on [my blog](https://marcobesier.xyz). 
-However, there are also some pieces I've written that have been published elsewhere. 
+However, there are also some pieces I've written that have been published zkSecurity's company blog. 
 These are listed below.
 
+- [Projects That Shaped Modern zkVMs — Part 1](https://blog.zksecurity.xyz/posts/zkvm-projects-1/)
 - [An Introduction to Interactive Theorem Provers](https://www.zksecurity.xyz/blog/posts/introduction-to-interactive-theorem-provers/)
 
 ## Academic Papers
