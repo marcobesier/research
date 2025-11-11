@@ -5,6 +5,7 @@
 Most of my latest technical writing is published on zkSecurity's company blog. Here is a selection:
 
 - [Common Circom Pitfalls and How to Dodge Them — Part 1](https://blog.zksecurity.xyz/posts/circom-pitfalls-1/)
+- [Common Circom Pitfalls and How to Dodge Them — Part 2](https://blog.zksecurity.xyz/posts/circom-pitfalls-2/)
 - [Projects That Shaped Modern zkVMs — Part 1](https://blog.zksecurity.xyz/posts/zkvm-projects-1/)
 - [An Introduction to Interactive Theorem Provers](https://www.zksecurity.xyz/blog/posts/introduction-to-interactive-theorem-provers/)
 
