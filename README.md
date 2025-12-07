@@ -9,8 +9,6 @@ Most of my latest technical writing is published on zkSecurity's company blog. H
 - [Projects That Shaped Modern zkVMs — Part 1](https://blog.zksecurity.xyz/posts/zkvm-projects-1/)
 - [An Introduction to Interactive Theorem Provers](https://www.zksecurity.xyz/blog/posts/introduction-to-interactive-theorem-provers/)
 
-I also occasionally publish posts on [my own blog](https://marcobesier.xyz).
-
 ## Academic Papers
 
 - [Rationalizing roots: an algorithmic approach](https://inspirehep.net/literature/1696332)
