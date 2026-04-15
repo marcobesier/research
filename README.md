@@ -1,8 +1,6 @@
-# Research Papers and Technical Blog Posts
+# Research
 
-## Technical Blog Posts
-
-Most of my latest technical writing is published on zkSecurity's company blog. Here is a selection:
+## Blog Posts
 
 - [Common Circom Pitfalls and How to Dodge Them — Part 1](https://blog.zksecurity.xyz/posts/circom-pitfalls-1/)
 - [Common Circom Pitfalls and How to Dodge Them — Part 2](https://blog.zksecurity.xyz/posts/circom-pitfalls-2/)
