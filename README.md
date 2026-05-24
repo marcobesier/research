@@ -4,6 +4,7 @@
 
 - [Sum-Check as an Algebraic Tensor Reduction: Part I](https://blog.zksecurity.xyz/posts/tensor-reductions-1/)
 - [Sum-Check as an Algebraic Tensor Reduction: Part II](https://blog.zksecurity.xyz/posts/tensor-reductions-2/)
+- [Sum-Check as an Algebraic Tensor Reduction: Part III](https://blog.zksecurity.xyz/posts/tensor-reductions-3/)
 - [Common Circom Pitfalls and How to Dodge Them — Part 1](https://blog.zksecurity.xyz/posts/circom-pitfalls-1/)
 - [Common Circom Pitfalls and How to Dodge Them — Part 2](https://blog.zksecurity.xyz/posts/circom-pitfalls-2/)
 - [Projects That Shaped Modern zkVMs — Part 1](https://blog.zksecurity.xyz/posts/zkvm-projects-1/)
