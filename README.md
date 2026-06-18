@@ -1,5 +1,7 @@
 # Research
 
+A selection of my latest technical writing and academic research.
+
 ## Blog Posts
 
 - [Sum-Check as an Algebraic Tensor Reduction: Part I](https://blog.zksecurity.xyz/posts/tensor-reductions-1/)
